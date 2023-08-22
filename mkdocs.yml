@@ -3,7 +3,7 @@ site_author:
 
 extra:
     materia: SuperComputação
-    professor: Andre Filipe de M. Batista, Michel Silva Fornaciali
+    professor: Andre Filipe de M. Batista, Michel Fornaciali 
     semestre: 2023/2
     url_acompanhamentos: http://localhost:8081
     id_curso: 1
@@ -34,7 +34,7 @@ nav:
 
     - Aulas:
         - "01 - Introdução": aulas/01-introducao/index.ipynb
-        # - "02 e 03 - C++": aulas/02-03-implementacao-c++/index.md
+        - "02 e 03 - C++": aulas/02-03-implementacao-c++/index.md
         # - "04 - Profiling": aulas/04-profiling/index.md
         # - "05 - Heurísticas": aulas/05-heuristicas/index.md
         # - "06 - Aleatorização": aulas/06-aleatorizacao/index.md
